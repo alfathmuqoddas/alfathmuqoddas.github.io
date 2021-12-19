@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
+    "path": "/tour-ink/broklyn-bridge/",
+    "result": {"data":{"destinationsJson":{"description":"One of the most famous building in New York City","link":"broklyn-bridge","location":"New York, USA","photos":"https://source.unsplash.com/DiBu1qTQQ8s/480x360","price":"$150","title":"Broklyn Bridge"}},"pageContext":{"id":"8bbd6f01-4155-5a58-b592-ea9aa104495f","link":"broklyn-bridge","__params":{"link":"broklyn-bridge"}}},
+    "staticQueryHashes": []}

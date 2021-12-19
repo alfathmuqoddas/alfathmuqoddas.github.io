@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
+    "path": "/tour-ink/sg-marina/",
+    "result": {"data":{"destinationsJson":{"description":"Enjoy various attraction at Singapore Marina Bay","link":"sg-marina","location":"Singapore","photos":"https://source.unsplash.com/IcOWqsXWL68/480x360","price":"$150","title":"Singapore Marina"}},"pageContext":{"id":"9173d329-96b2-5412-8af6-d963d088c5ef","link":"sg-marina","__params":{"link":"sg-marina"}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
+    "path": "/tour-ink/eiffel-tower/",
+    "result": {"data":{"destinationsJson":{"description":"Most famous and beautiful tower in the world in the middle of city of Paris","link":"eiffel-tower","location":"Paris, France","photos":"https://source.unsplash.com/QAwciFlS1g4/480x360","price":"$150","title":"Eiffel Tower"}},"pageContext":{"id":"f7478f22-96be-53eb-9a69-ae4e7593df29","link":"eiffel-tower","__params":{"link":"eiffel-tower"}}},
+    "staticQueryHashes": []}

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[645],{6125:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var r=n(7294);function a(){return r.createElement(r.Fragment,null,r.createElement("h1",null,"This is inside projects page"))}}}]);
-//# sourceMappingURL=component---src-pages-projects-inside-projects-index-js-0513f82e866866756b2c.js.map
