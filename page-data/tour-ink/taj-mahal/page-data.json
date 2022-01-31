@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
-    "path": "/tour-ink/taj-mahal/",
-    "result": {"data":{"destinationsJson":{"description":"Beautiful mosque like building intended as giant mauseleoum for Mumtaz Mahal, wife of Mughal Emperor that time, Shah Jahan","link":"taj-mahal","location":"Agra, India","photos":"https://source.unsplash.com/sAB4BWrQ4Y4/480x360","price":"$150","title":"Taj Mahal"}},"pageContext":{"id":"8efc9e03-c0c7-5691-98b1-d200805c6dad","link":"taj-mahal","__params":{"link":"taj-mahal"}}},
-    "staticQueryHashes": []}

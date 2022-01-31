@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
-    "path": "/tour-ink/machu-picchu/",
-    "result": {"data":{"destinationsJson":{"description":"One of the most beautiful ancient building of the lost civilizations of Inca","link":"machu-picchu","location":"Cuzco, Peru","photos":"https://source.unsplash.com/4hMET7vYTAQ/480x360","price":"$150","title":"Machu Picchu"}},"pageContext":{"id":"0266af08-a081-515c-9a75-203b3ac389ad","link":"machu-picchu","__params":{"link":"machu-picchu"}}},
-    "staticQueryHashes": []}

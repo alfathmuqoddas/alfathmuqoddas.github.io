@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
-    "path": "/tour-ink/wall-china/",
-    "result": {"data":{"destinationsJson":{"description":"Enjoy beautiful scenery of the world famoust Great Wall of China","link":"wall-china","location":"Beijing, China","photos":"https://source.unsplash.com/E13mcj-2TLE/480x360","price":"$150","title":"Great Wall of China"}},"pageContext":{"id":"67f84002-f060-5ede-8b32-acf0d89dbaf8","link":"wall-china","__params":{"link":"wall-china"}}},
-    "staticQueryHashes": []}

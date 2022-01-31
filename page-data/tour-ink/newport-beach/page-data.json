@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
-    "path": "/tour-ink/newport-beach/",
-    "result": {"data":{"destinationsJson":{"description":"Beautiful beach with rocky cliff in California","link":"newport-beach","location":"California, US","photos":"https://source.unsplash.com/L1Ix5Q-PKBY/480x360","price":"$150","title":"Newport Beach"}},"pageContext":{"id":"20f46d7b-9269-533a-90e2-ba437aaeeea6","link":"newport-beach","__params":{"link":"newport-beach"}}},
-    "staticQueryHashes": []}

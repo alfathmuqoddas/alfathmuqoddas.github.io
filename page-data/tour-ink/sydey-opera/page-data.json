@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-tour-ink-destinations-json-link-js",
-    "path": "/tour-ink/sydey-opera/",
-    "result": {"data":{"destinationsJson":{"description":"Most beautiful opera house in the world","link":"sydey-opera","location":"Sydney, Australia","photos":"https://source.unsplash.com/xdGCrwu2CWM/480x360","price":"$150","title":"Sydney Opera House"}},"pageContext":{"id":"75f92e7c-2da2-543d-ba86-2ef2a2c5ab09","link":"sydey-opera","__params":{"link":"sydey-opera"}}},
-    "staticQueryHashes": []}
